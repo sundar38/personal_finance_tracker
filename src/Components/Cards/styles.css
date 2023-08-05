@@ -1,0 +1,16 @@
+.cardstyle{
+    border: 1px solid blue;
+    margin: 1rem;
+}
+.rowstyle{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+    width: 90%;
+}
+.cardbutton{
+    background-color: blue;
+    border-radius: 0.5rem;
+    width: 90%;
+    height: 1.75rem;
+}

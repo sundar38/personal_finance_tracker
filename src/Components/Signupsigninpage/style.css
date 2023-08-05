@@ -1,0 +1,28 @@
+.form{    
+    position: absolute;
+    left: 35%;
+    border: 1px solid black;
+    width: 350px;
+    top: 15%;
+    padding: 1rem 0.5rem;
+    text-align: center;
+}
+.form p{
+    margin-bottom: 0.5rem;
+}
+.form input{
+    border-width: 0;
+    border-bottom-width:1px ;
+    width: 90%;
+}
+input:focus{
+    outline: none;
+}
+button{
+    margin-top: 0.5rem;
+    border-radius: 0.2rem;
+    width: 90%;
+}
+.google{
+    background-color: blue;
+}
